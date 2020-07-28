@@ -1,4 +1,6 @@
 ### Hi there 👋 My name is Aditya Kelvianto Sidharta
+![Profile Views](https://gpvc.arturio.dev/adityasidharta) ![GitHub followers](https://img.shields.io/github/followers/AdityaSidharta?style=social) 
+
 
 - 🔭 I’m currently working on @gojek as a Data Scientist.
 - 🌱 I’m currently learning: Go, Java, Computer Science
