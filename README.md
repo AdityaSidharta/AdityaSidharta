@@ -7,5 +7,3 @@
 - 📫 How to reach me: Drop me an email at hello@adityasidharta.com. 
 
 Thanks for Dropping by! Have a great day!
-
-[![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=AdityaSidharta)](https://github.com/AdityaSidharta/github-readme-stats)
