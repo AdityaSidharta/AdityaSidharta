@@ -8,4 +8,4 @@
 
 Thanks for Dropping by! Have a great day!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityasidharta&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityasidharta&hide=css,tcl,jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
