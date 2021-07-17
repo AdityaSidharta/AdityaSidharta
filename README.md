@@ -7,3 +7,5 @@
 - 📫 How to reach me: Drop me an email at hello@adityasidharta.com. 
 
 Thanks for Dropping by! Have a great day!
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityasidharta&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
