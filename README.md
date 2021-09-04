@@ -15,3 +15,8 @@ My name is **Aditya Kelvianto Sidharta**
 - 📫 *How to reach me*: Drop me an email at hello@adityasidharta.com. 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityasidharta&hide=css,tcl,jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
+
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![R](https://img.shields.io/badge/-R-blue?style=flat-square&logo=R)
+![Go](https://img.shields.io/badge/-go-29beb0?style=flat-square&logo=go)
+
