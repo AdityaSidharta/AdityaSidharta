@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently studying at @columbia (M.S. Computer Science). Previous Experience: Data Scientist at @gojek, @teralytics, @uCare-SG
-- 💬 Ask me about: Data Science, Python, Statistics
+- 💬 Ask me about: Data Science, Reinforcement Learning, Bayesian Statistics, Deep Learning, Causal Inference, Machine Learning, Data Analytics, Data Visualization
 - 📫 How to reach me: Drop me an email at hello@adityasidharta.com. 
 
 Thanks for Dropping by! Have a great day!
