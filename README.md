@@ -16,10 +16,11 @@
 
 
 ### ⚡ Languages and Frameworks
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Python](https://img.shields.io/badge/-Python-#3776AB?style=flat-square&logo=Python)
 ![R](https://img.shields.io/badge/-R-blue?style=flat-square&logo=R)
 ![Go](https://img.shields.io/badge/-go-29beb0?style=flat-square&logo=go)
 ![Javascript](https://img.shields.io/badge/-javascript-yellow?style=flat-square&logo=javascript)
+![Java](https://img.shields.io/badge/-java-red?style=flat-square&logo=java)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityasidharta&hide=css,tcl,jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
