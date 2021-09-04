@@ -17,7 +17,7 @@
 
 ### ⚡ Languages and Frameworks
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=Go)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
