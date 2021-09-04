@@ -18,14 +18,14 @@
 ### ⚡ Languages and Frameworks
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python)
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R)
-![Go](https://img.shields.io/badge/-go-00ADD8?style=flat-square&logo=go)
-![Javascript](https://img.shields.io/badge/-javascript-F7DF1E?style=flat-square&logo=javascript)
-![Java](https://img.shields.io/badge/-java-007396?style=flat-square&logo=java)
-![Pandas](https://img.shields.io/badge/-pandas-150458?style=flat-square&logo=pandas)
-![Numpy](https://img.shields.io/badge/-numpy-013243?style=flat-square&logo=numpy)
-![SciPy](https://img.shields.io/badge/-scipy-8CAAE6?style=flat-square&logo=scipy)
-![Tensorflow](https://img.shields.io/badge/-tensorflow-FF6F00?style=flat-square&logo=tensorflow)
-![PyTorch](https://img.shields.io/badge/-tensorflow-EE4C2C?style=flat-square&logo=pytorch)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=Go)
+![Javascript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java)
+![pandas](https://img.shields.io/badge/-pandas-150458?style=flat-square&logo=pandas)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=NumPy)
+![SciPy](https://img.shields.io/badge/-SciPy-8CAAE6?style=flat-square&logo=SciPy)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=TensorFlow)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=PyTorch)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityasidharta&hide=css,tcl,jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
