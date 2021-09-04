@@ -1,6 +1,6 @@
-### Hi there  <a href="https://www.adityasidharta.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+## Hi there  <a href="https://www.adityasidharta.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-My name is **Aditya Kelvianto Sidharta**
+### My name is Aditya Kelvianto Sidharta
 
 ![Profile Views](https://gpvc.arturio.dev/adityasidharta) 
 ![GitHub followers](https://img.shields.io/github/followers/AdityaSidharta?style=social) 
@@ -14,9 +14,11 @@ My name is **Aditya Kelvianto Sidharta**
 - 💬 *Ask me about*: Data Science, Reinforcement Learning, Bayesian Statistics, Deep Learning, Causal Inference, Machine Learning, Data Analytics, Data Visualization
 - 📫 *How to reach me*: Drop me an email at hello@adityasidharta.com. 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityasidharta&hide=css,tcl,jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 
+### ⚡ Languages and Frameworks
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![R](https://img.shields.io/badge/-R-blue?style=flat-square&logo=R)
 ![Go](https://img.shields.io/badge/-go-29beb0?style=flat-square&logo=go)
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityasidharta&hide=css,tcl,jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
