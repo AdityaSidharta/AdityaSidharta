@@ -2,7 +2,11 @@
 
 My name is **Aditya Kelvianto Sidharta**
 
-![Profile Views](https://gpvc.arturio.dev/adityasidharta) ![GitHub followers](https://img.shields.io/github/followers/AdityaSidharta?style=social) 
+![Profile Views](https://gpvc.arturio.dev/adityasidharta) 
+![GitHub followers](https://img.shields.io/github/followers/AdityaSidharta?style=social) 
+[![Linkedin Badge](https://img.shields.io/badge/-adityasidharta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adityasidharta/)](https://www.linkedin.com/in/adityasidharta/)
+[![Linkedin Badge](https://img.shields.io/badge/-adityasidharta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adityasidharta/)](https://www.linkedin.com/in/adityasidharta/)
+[![Gmail Badge](https://img.shields.io/badge/-hello@adityasidharta.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hello@adityasidharta.com)](hello@adityasidharta.com)
 
 - 🔭 *What I'm currently doing*: Pursuing Masters degree (Computer Science) [@columbia](https://www.columbia.edu/). Previous Experience: Data Scientist at [@gojek](https://www.gojek.com/en-id/), [@uCare-SG](https://www.ucare.ai/), [@teralytics](https://www.teralytics.net/)
 - 💬 *Ask me about*: Data Science, Reinforcement Learning, Bayesian Statistics, Deep Learning, Causal Inference, Machine Learning, Data Analytics, Data Visualization
