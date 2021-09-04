@@ -2,8 +2,8 @@
 
 ### My name is Aditya Kelvianto Sidharta
 
-![Profile Views](https://gpvc.arturio.dev/adityasidharta) 
 ![GitHub followers](https://img.shields.io/github/followers/AdityaSidharta?style=social) 
+![Profile Views](https://gpvc.arturio.dev/adityasidharta) 
 [![Linkedin Badge](https://img.shields.io/badge/-adityasidharta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adityasidharta/)](https://www.linkedin.com/in/adityasidharta/)
 [![Kaggle Badge](https://img.shields.io/badge/-adityaksidharta-9cf?style=flat-square&logo=kaggle&logoColor=white&link=https://www.kaggle.com/adityaksidharta/)](https://www.kaggle.com/adityaksidharta/)
 [![Gmail Badge](https://img.shields.io/badge/-hello@adityasidharta.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hello@adityasidharta.com)](mailto:hello@adityasidharta.com)
