@@ -11,7 +11,7 @@
 
 
 - 🔭 *What I'm currently doing*: Pursuing Masters degree (Computer Science) [@columbia](https://www.columbia.edu/). Previous Experience: Data Scientist at [@capitalone](https://www.capitalone.com/) [@gojek](https://www.gojek.com/en-id/), [@uCare-SG](https://www.ucare.ai/), [@teralytics](https://www.teralytics.net/)
-- 💬 *Ask me about*: Data Science, Reinforcement Learning, Bayesian Statistics, Deep Learning, Causal Inference, Machine Learning, Data Analytics, Data Visualization
+- 💬 *Ask me about*: Data Science, Reinforcement Learning, Bayesian Statistics, Deep Learning, Causal Inference, Machine Learning, Data Analytics, Data Visualization, MLOps
 - 📫 *How to reach me*: Drop me an email at hello@adityasidharta.com. 
 
 
