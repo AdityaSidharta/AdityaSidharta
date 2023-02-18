@@ -10,8 +10,9 @@
 [![Website Badge](https://img.shields.io/badge/-adityasidharta.com-03a57a?style=flat-square&logo=google&logoColor=white&link=https://adityasidharta.com)](https://adityasidharta.com)
 
 
-- 🔭 *What I'm currently doing*: Pursuing Masters degree (Computer Science) [@columbia](https://www.columbia.edu/). Previous Experience: Data Scientist at [@capitalone](https://www.capitalone.com/) [@gojek](https://www.gojek.com/en-id/), [@uCare-SG](https://www.ucare.ai/), [@teralytics](https://www.teralytics.net/)
-- 💬 *Ask me about*: Data Science, Reinforcement Learning, Bayesian Statistics, Deep Learning, Causal Inference, Machine Learning, Data Analytics, Data Visualization, MLOps
+- 🔭 *What I'm currently doing*: Data Scientist at [@capitalone](https://www.capitalone.com/). Previous Experience: Data Scientist at [@gojek](https://www.gojek.com/en-id/), [@uCare-SG](https://www.ucare.ai/), [@teralytics](https://www.teralytics.net/).
+- 👨‍🎓 *Previous Education*: Master in Computer Science ([@columbia](https://www.columbia.edu/)), Bachelor in Statistics ([@nus](https://www.nus.edu.sg))
+- 💬 *Ask me about*: Data Science, Reinforcement Learning, Bayesian Statistics, Deep Learning, Causal Inference, Machine Learning, Data Visualization, MLOps
 - 📫 *How to reach me*: Drop me an email at hello@adityasidharta.com. 
 
 
@@ -56,5 +57,3 @@
 ![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=Grafana&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=Redis&logoColor=white)
 --->
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityasidharta&hide=css,tcl,jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
