@@ -3,7 +3,6 @@
 ### My name is [Aditya Kelvianto Sidharta](https://adityasidharta.com)
 
 ![GitHub followers](https://img.shields.io/github/followers/AdityaSidharta?style=social) 
-![Profile Views](https://gpvc.arturio.dev/adityasidharta) 
 [![Linkedin Badge](https://img.shields.io/badge/-adityasidharta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adityasidharta/)](https://www.linkedin.com/in/adityasidharta/)
 [![Kaggle Badge](https://img.shields.io/badge/-adityaksidharta-9cf?style=flat-square&logo=kaggle&logoColor=white&link=https://www.kaggle.com/adityaksidharta/)](https://www.kaggle.com/adityaksidharta/)
 [![Gmail Badge](https://img.shields.io/badge/-hello@adityasidharta.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hello@adityasidharta.com)](mailto:hello@adityasidharta.com)
@@ -22,7 +21,7 @@
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=Go&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white)
-![SQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white)
+![SQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=SQL&logoColor=white)
 ![pandas](https://img.shields.io/badge/-pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=NumPy&logoColor=white)
 ![SciPy](https://img.shields.io/badge/-SciPy-8CAAE6?style=flat-square&logo=SciPy&logoColor=white)
