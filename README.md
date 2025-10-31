@@ -12,7 +12,7 @@
 - 🔭 *What I'm currently doing*: Data Scientist at [@capitalone](https://www.capitalone.com/). Previous Experience: Data Scientist at [@gojek](https://www.gojek.com/en-id/), [@uCare-SG](https://www.ucare.ai/), [@teralytics](https://www.teralytics.net/).
 - 👨‍🎓 *Previous Education*: Master in Computer Science [@columbia](https://www.columbia.edu/), Bachelor in Statistics [@nus](https://www.nus.edu.sg)
 - 💬 *Ask me about*: Data Science, LLM, Reinforcement Learning, Bayesian Statistics, Deep Learning, Causal Inference, Machine Learning, Data Visualization, MLOps
-- 📫 *How to reach me*: Drop me an email at hello@adityasidharta.com. 
+- 📫 *How to reach me*: Drop me an email at aditya.sdrt@gmail.com. 
 
 
 ### ⚡ Languages and Frameworks
